@@ -14,13 +14,6 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
     Locate the default text Welcome!.
     Change it to ** First App Created**.
    
-Expo Go Installation
-Steps to Install Expo Go
-Issues:
-Document your setup process and any challenges faced in the README.md file. This will help you track your progress and troubleshoot any issues that arise during development.:
-   issues were encountered in setting up Expo Go:
-      I had to disable the firewall on my phone to be able to connect via network to my test app
-
 
 ## Get started
 
